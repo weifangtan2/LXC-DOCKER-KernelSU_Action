@@ -6,6 +6,7 @@
 
 本次修复了一些原来作者的一些bug以及一些内核源码导致的编译失败
 使用的内核源码是https://github.com/typezhi/Rinko_android_kernel_xiaomi_thyme
+
 视频编译教程https://www.bilibili.com/video/BV1jf8czoEZv/
 
 ## 警告:warning: :warning: :warning:
